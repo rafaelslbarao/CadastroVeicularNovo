@@ -1,6 +1,6 @@
-package br.com.rafaelbarao.cadastroveicular.explicacaoheranca;
+package br.com.rafaelbarao.exemplosjava.explicacaoheranca;
 
-import br.com.rafaelbarao.cadastroveicular.util.Console;
+import br.com.rafaelbarao.exemplosjava.util.Console;
 
 public class Homem extends Mamifero{
     public void fala()

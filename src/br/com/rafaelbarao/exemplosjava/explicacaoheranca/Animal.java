@@ -1,4 +1,4 @@
-package br.com.rafaelbarao.cadastroveicular.explicacaoheranca;
+package br.com.rafaelbarao.exemplosjava.explicacaoheranca;
 
 public abstract class Animal {
     private String nome;

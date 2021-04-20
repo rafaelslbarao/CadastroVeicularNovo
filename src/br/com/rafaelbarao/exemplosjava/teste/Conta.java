@@ -1,4 +1,4 @@
-package br.com.rafaelbarao.cadastroveicular.teste;
+package br.com.rafaelbarao.exemplosjava.teste;
 
 public class Conta {
     private Integer numeroConta;

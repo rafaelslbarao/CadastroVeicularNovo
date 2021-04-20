@@ -1,6 +1,4 @@
-package br.com.rafaelbarao.cadastroveicular.util;
-
-import br.com.rafaelbarao.cadastroveicular.view.OpcaoMenu;
+package br.com.rafaelbarao.exemplosjava.util;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package br.com.rafaelbarao.cadastroveicular.teste;
+package br.com.rafaelbarao.exemplosjava.teste;
 
 //Exemplo de composição (Classe "parte")
 public class ItemVenda {

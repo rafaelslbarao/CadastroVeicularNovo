@@ -1,11 +1,6 @@
-package br.com.rafaelbarao.cadastroveicular;
+package br.com.rafaelbarao.exemplosjava;
 
-import br.com.rafaelbarao.cadastroveicular.controladores.CadastroVeiculos;
-import br.com.rafaelbarao.cadastroveicular.entidades.Veiculo;
-import br.com.rafaelbarao.cadastroveicular.explicacaoheranca.TestesHeranca;
-import br.com.rafaelbarao.cadastroveicular.teste.Venda;
-import br.com.rafaelbarao.cadastroveicular.util.Console;
-import br.com.rafaelbarao.cadastroveicular.view.MenuPrincipal;
+import br.com.rafaelbarao.exemplosjava.explicacaoheranca.TestesHeranca;
 
 public class Main {
     private static enum Conta {

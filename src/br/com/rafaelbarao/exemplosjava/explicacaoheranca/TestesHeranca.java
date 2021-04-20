@@ -1,6 +1,4 @@
-package br.com.rafaelbarao.cadastroveicular.explicacaoheranca;
-
-import br.com.rafaelbarao.cadastroveicular.util.Console;
+package br.com.rafaelbarao.exemplosjava.explicacaoheranca;
 
 public class TestesHeranca {
 

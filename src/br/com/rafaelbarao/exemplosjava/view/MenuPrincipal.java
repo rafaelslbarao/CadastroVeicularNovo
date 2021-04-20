@@ -1,7 +1,7 @@
-package br.com.rafaelbarao.cadastroveicular.view;
+package br.com.rafaelbarao.exemplosjava.view;
 
-import br.com.rafaelbarao.cadastroveicular.controladores.CadastroVeiculos;
-import br.com.rafaelbarao.cadastroveicular.util.Console;
+import br.com.rafaelbarao.exemplosjava.controladores.CadastroVeiculos;
+import br.com.rafaelbarao.exemplosjava.util.Console;
 
 public class MenuPrincipal {
     private static final int MENU_CADASTRAR_VEICULO = 100;

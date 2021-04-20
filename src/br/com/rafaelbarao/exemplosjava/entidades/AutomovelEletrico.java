@@ -1,6 +1,6 @@
-package br.com.rafaelbarao.cadastroveicular.entidades;
+package br.com.rafaelbarao.exemplosjava.entidades;
 
-import br.com.rafaelbarao.cadastroveicular.util.Console;
+import br.com.rafaelbarao.exemplosjava.util.Console;
 
 public class AutomovelEletrico extends Veiculo {
     public boolean estadoArCondicionado;

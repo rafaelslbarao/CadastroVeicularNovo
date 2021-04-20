@@ -1,4 +1,4 @@
-package br.com.rafaelbarao.cadastroveicular.view;
+package br.com.rafaelbarao.exemplosjava.view;
 
 public class OpcaoMenu {
     //Atributos

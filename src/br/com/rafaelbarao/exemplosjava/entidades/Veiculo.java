@@ -1,4 +1,4 @@
-package br.com.rafaelbarao.cadastroveicular.entidades;
+package br.com.rafaelbarao.exemplosjava.entidades;
 
 //String - Armazenar texto
 //Long - Arnazenar valores inteiros

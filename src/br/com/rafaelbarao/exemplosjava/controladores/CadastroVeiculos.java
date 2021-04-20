@@ -1,9 +1,9 @@
-package br.com.rafaelbarao.cadastroveicular.controladores;
+package br.com.rafaelbarao.exemplosjava.controladores;
 
-import br.com.rafaelbarao.cadastroveicular.entidades.AutomovelEletrico;
-import br.com.rafaelbarao.cadastroveicular.entidades.Motocicleta;
-import br.com.rafaelbarao.cadastroveicular.entidades.Veiculo;
-import br.com.rafaelbarao.cadastroveicular.util.Console;
+import br.com.rafaelbarao.exemplosjava.entidades.AutomovelEletrico;
+import br.com.rafaelbarao.exemplosjava.entidades.Motocicleta;
+import br.com.rafaelbarao.exemplosjava.entidades.Veiculo;
+import br.com.rafaelbarao.exemplosjava.util.Console;
 
 import java.util.ArrayList;
 
